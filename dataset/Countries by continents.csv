@@ -52,13 +52,17 @@ Africa,Togo
 Africa,Tunisia
 Africa,Uganda
 Africa,Zambia
+Africa,Burkina Faso
+Africa,Cote d'Ivoire
+Africa,Cabo Verde
+Africa,Eswatini
 Africa,Zimbabwe
 Asia,Afghanistan
 Asia,Bahrain
 Asia,Bangladesh
 Asia,Bhutan
 Asia,Brunei
-Asia,Burma (Myanmar)
+Asia,Burma
 Asia,Cambodia
 Asia,China
 Asia,East Timor
@@ -91,6 +95,7 @@ Asia,Singapore
 Asia,Sri Lanka
 Asia,Syria
 Asia,Taiwan
+Asia,Palestinian Territories
 Asia,Tajikistan
 Asia,Thailand
 Europe,Turkey
@@ -98,6 +103,7 @@ Asia,Turkmenistan
 Asia,United Arab Emirates
 Asia,Uzbekistan
 Asia,Vietnam
+Asia,Timor-Leste
 Asia,Yemen
 Europe,Albania
 Europe,Andorra
@@ -144,6 +150,7 @@ Europe,Spain
 Europe,Sweden
 Europe,Switzerland
 Europe,Ukraine
+Europe,Kosovo
 Europe,United Kingdom
 Europe,Vatican City
 North America,Antigua and Barbuda
